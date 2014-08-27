@@ -12,7 +12,7 @@ Time Spent: 10 hours fighting with Java 7, Eclipse, Android Studio, emulators, a
  
 ### Notes
 
-This was way harder than it should have been. I thought the Xcode learning curve was steep but at least everyworks out of the box. I hope it gets better.
+This was way harder than it should have been. I thought the Xcode learning curve was steep but at least everything works out of the box. I hope Android gets better. It would have been helpful to have an updated walkthrough for Android Studio and newer versions of the Android SDK Manager.
 
 ### Walkthrough
 
