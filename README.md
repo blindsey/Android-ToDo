@@ -1,6 +1,6 @@
 ## Android ToDo App
 
-The is the Android pre-homework assignment for the September 10th class in Sunnyvale.
+The is the Android pre-homework assignment for the September class in Sunnyvale.
 
 Time Spent: 10 hours fighting with Java 7, Eclipse, Android Studio, emulators, and API 20.
 
